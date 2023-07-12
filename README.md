@@ -2,9 +2,9 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **managing Virtual Machines with Ansible**
+- 🔭 I’m currently working on **Automating the management of Virtual Machines with Ansible**
 
-- 🌱 I’m currently learning **Ansible, Networks, Metasploitable**
+- 🌱 I’m currently learning **Ansible, Computer Network Concepts, Metasploitable**
 
 - 👨‍💻 All of my projects are available at [https://bhargavi1poyekar.github.io/](https://bhargavi1poyekar.github.io/)
 
