@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently completing **IBM Back-End Development Professional Certificate**
+- 🔭 I’m currently focusing on learning the basics of AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://bhargavi1poyekar.github.io/](https://bhargavi1poyekar.github.io/)
 
