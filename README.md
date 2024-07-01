@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently focusing on learning the basics of AI/ML**
+- 🔭 I’m currently focusing on AWS Certification
 
 - 👨‍💻 All of my projects are available at [https://bhargavi1poyekar.github.io/](https://bhargavi1poyekar.github.io/)
 
