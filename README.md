@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently focusing on learning AWS services and using them.
+- 🔭 I’m currently working on a research project related to MIPS.
 
 - 👨‍💻 All of my projects are available at [https://bhargavi1poyekar.github.io/](https://bhargavi1poyekar.github.io/)
 
