@@ -2,9 +2,9 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on a research project related to MIPS.
+- 🔭 I’m currently working on a research project related to eBPF and stack.
 
-- 👨‍💻 All of my projects are available at [https://bhargavi1poyekar.github.io/](https://bhargavi1poyekar.github.io/)
+- 👨‍💻 [AWS Certified Developer - Associate](https://www.credly.com/badges/725f00f5-e6e2-43ef-a7db-fe346c2c92e1) and [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0983b360-2349-4ae2-9bb9-12c19f8f09d1/public_url). 
 
 - 📝 I regularly write articles on [https://medium.com/@bpoyeka1](https://medium.com/@bpoyeka1)
 
