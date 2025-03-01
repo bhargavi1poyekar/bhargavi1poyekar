@@ -4,7 +4,7 @@
 
 - 🔭 Learning more and more about Cloud and Devops tools.
 
-- 👨‍💻 [AWS Certified Developer - Associate](https://www.credly.com/badges/725f00f5-e6e2-43ef-a7db-fe346c2c92e1), [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0983b360-2349-4ae2-9bb9-12c19f8f09d1/public_url) [Hashicorp Certified Terraform Associate (003)](https://www.credly.com/badges/524276fc-cbfc-4f31-ab5f-32619aee6eb2/public_url). 
+- 👨‍💻 [AWS Certified Developer - Associate](https://www.credly.com/badges/725f00f5-e6e2-43ef-a7db-fe346c2c92e1), [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0983b360-2349-4ae2-9bb9-12c19f8f09d1/public_url), and [Hashicorp Certified Terraform Associate (003)](https://www.credly.com/badges/524276fc-cbfc-4f31-ab5f-32619aee6eb2/public_url). 
 
 - 📝 I regularly write articles on [https://medium.com/@bpoyeka1](https://medium.com/@bpoyeka1)
 
